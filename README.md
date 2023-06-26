@@ -18,6 +18,6 @@ Now, to run this a docker container run the following command
 ```bash
 $ docker run -it -d -p 8000:8000 todo-webapp
 ```
-Once the server is hosted, head over to http:/localhost:8000/todos for the App.
+Once the server is hosted, head over to http://localhost:8000/todos for the App.
 
 Cheers :)
