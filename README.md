@@ -1,6 +1,6 @@
 # django-todo
 A simple todo app built with django and dockerzied 
-
+![todo App](https://github.com/Surajtalwar/dockerized-web-app/blob/72d05a055dbd6587cc4185884d2070a14c01cdbb/staticfiles/todoApp.png)
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
